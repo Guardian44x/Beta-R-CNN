@@ -14,9 +14,9 @@ Recently significant progress has been made in pedestrian detection, but it rema
 
 The network structure and some visualization results are shown here:
 
-- <img src="../Beta/pipeline.png" alt="avatar"  />
+- <img src="./Images/pipeline.png" alt="avatar"  />
 
-<img src="../Beta/Visualization.png" alt="avatar"  />
+<img src="./Images/Visualization.png" alt="avatar"  />
 
 # Citation
 
@@ -24,4 +24,4 @@ The network structure and some visualization results are shown here:
 
 # Contact
 
-If you have any questions, please do not hesitate to contact Zixuan Xu ([zixuanxu@pku.edu.cn](mailto:zixuanxu@pku.edu.cn)).# Beta-R-CNN
+If you have any questions, please do not hesitate to contact Zixuan Xu ([zixuanxu@pku.edu.cn](mailto:zixuanxu@pku.edu.cn)).
