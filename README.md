@@ -4,7 +4,7 @@ This is the pytorch implementation of our paper "[Beta R-CNN: Looking into Pedes
 
 Our method aiming at detecting highly occluded and highly-overlapped instances in crowded scenes especially for pedestrian detection.
 
-Codes are prepared to release here. Due to the experiments are conducted with internal framework, we need some time to rewrite and clean the code. We will release the complete code soon.
+*Codes are prepared to release here. Due to the experiments are conducted with internal framework, we need some time to rewrite and clean the code. We will release the complete code soon.*
 
 # Abstract
 
