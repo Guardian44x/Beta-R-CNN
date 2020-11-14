@@ -19,7 +19,7 @@ The network structure and some visualization results are shown here:
 <img src="./Images/Visualization.png" alt="avatar"  />
 
 # Citation
-
+```
 @article{xu2020beta,
   title={Beta R-CNN: Looking into Pedestrian Detection from Another Perspective},
   author={Xu, Zixuan and Li, Banghuai and Yuan, Ye and Dang, Anhong},
@@ -27,7 +27,7 @@ The network structure and some visualization results are shown here:
   volume={33},
   year={2020}
 }
-
+```
 
 # Contact
 
