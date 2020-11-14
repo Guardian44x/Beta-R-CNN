@@ -20,7 +20,7 @@ The network structure and some visualization results are shown here:
 
 # Citation
 ```
-@article{xu2020beta,
+@article{BetaRCNN,
   title={Beta R-CNN: Looking into Pedestrian Detection from Another Perspective},
   author={Xu, Zixuan and Li, Banghuai and Yuan, Ye and Dang, Anhong},
   journal={Advances in Neural Information Processing Systems},
